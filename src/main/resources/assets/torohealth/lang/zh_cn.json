@@ -1,0 +1,21 @@
+{
+  "config.title": "生命与伤害显示配置 §7(ToroHealth)",
+  "config.category.hud": "HUD 平视显示器",
+  "config.hud.hideDelay": "面板隐藏延迟 (游戏刻)",
+  "config.hud.x": "横向位置 ( X 轴)",
+  "config.hud.y": "纵向位置 ( Y 轴)",
+  "config.hud.scale": "面板缩放",
+  "config.torohealth.category.bar": "生命条",
+  "config.bar.damageNumberType": "伤害数值的显示类型",
+  "config.torohealth.category.inWorld": "世界内渲染",
+  "config.inWorld.mode": "显示模式",
+  "config.inWorld.distance": "显示距离",
+  "config.torohealth.friendColor.title": "友好生物的生命条颜色",
+  "config.torohealth.friendColorSecondary.title":"友好生物的生命条颜色 (次级)",
+  "config.torohealth.foeColor.title": "敌对生物的生命条颜色",
+  "config.torohealth.foeColorSecondary.title":"敌对生物的生命条颜色 (次级)",
+  "config.torohealth.red": "红色 (§cR§r)",
+  "config.torohealth.green": "绿色 (§aG§r)",
+  "config.torohealth.blue": "蓝色 (§bB§r)",
+  "config.torohealth.alpha": "透明 (§7Alpha§r)"
+}
